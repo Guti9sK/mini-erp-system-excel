@@ -8,6 +8,18 @@ This project demonstrates how Excel VBA can be used to build an integrated busin
 
 The system connects business operations through document relationships and application records, providing visibility into document statuses, outstanding balances, and inventory changes.
 
+## System Preview
+
+The following screenshots show the dashboard and a representative invoice state from the ERP system.
+
+## Dashboard
+
+![ERP Dashboard](images/dashboard-preview.png)
+
+## Invoice - Paid
+
+![ERP Invoice](images/invoice-paid-preview.png)
+
 ## Key Features
 
 - **Document Management:** Create and manage sales and purchasing documents throughout their respective workflows.
@@ -71,8 +83,6 @@ For the detailed system architecture, data model, document lifecycle, inventory 
 - Visual Basic for Applications (VBA)
 - Excel Tables and formulas
 - PivotTables and charts
-
-## AI-Assisted Development
 
 ## AI-Assisted Development
 
