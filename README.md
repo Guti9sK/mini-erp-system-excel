@@ -16,7 +16,7 @@ The following screenshots show the dashboard and a representative invoice state 
 
 ![ERP Dashboard](images/dashboard-preview.png)
 
-## Invoice - Paid
+## Invoice — Paid
 
 ![ERP Invoice](images/invoice-paid-preview.png)
 
