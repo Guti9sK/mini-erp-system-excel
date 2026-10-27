@@ -112,4 +112,4 @@ This repository documents the resulting portfolio project, its functionality, an
 
 ## Author
 
-Developed as a portfolio project to demonstrate Excel VBA development, business process automation, data validation, document traceability, and inventory and financial workflow management.
+Developed by Agustín Palma as a portfolio project demonstrating Excel VBA development, business process automation, data validation, document traceability, and inventory and financial workflow management.
